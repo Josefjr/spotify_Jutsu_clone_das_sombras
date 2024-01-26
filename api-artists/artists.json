@@ -1,11 +1,17 @@
 {
-    "artists": [
+  "artists": [
       { "id": 1, "name": "Foo Fighters", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" },
       { "id": 2, "name": "Michael Jackson", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa" },
       { "id": 3, "name": "Emicida", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068" },
       { "id": 4, "name": "Chitãozinho e Xororó", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4" },
       { "id": 5, "name": "Mc Coringa", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56" },
       { "id": 6, "name": "Arlindo Cruz", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839" },
-      { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" }
-    ]
-  }
+      { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+      { "id": 8, "name": "Queen", "genre": "Rock", "urlImg": "https://pt.wikipedia.org/wiki/Ficheiro:Queen_II.jpg" },
+      { "id": 9, "name": "Bob Marley", "genre": "Reggae", "urlImg": "http://blog.richmond.edu/heroes/files/2021/03/Bob-Marley.jpeg" },
+      { "id": 10, "name": "Beyoncé", "genre": "R&B", "urlImg": "https://uploads.metropoles.com/wp-content/uploads/2023/01/23143500/Beyonce_Dubai.jpg" },
+      { "id": 11, "name": "Led Zeppelin", "genre": "Rock", "urlImg": "https://cdns-images.dzcdn.net/images/cover/bf6394fd785568147dc6a0a27ebf1bc3/500x500.jpg" },
+      { "id": 12, "name": "Eminem", "genre": "Hip Hop", "urlImg": "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2018/08/Eminem-696x412.jpg" },
+      { "id": 13, "name": "Miles Davis", "genre": "Jazz", "urlImg": "https://s2-valor.glbimg.com/-F8ttpbg3SDEX09db4tEOWJdvrI=/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/8/I/RUXRwtSVKAFIYCJvJv2g/foto11cul-801-cinema-d26.jpg" }
+  ]
+}
